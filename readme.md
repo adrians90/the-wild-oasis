@@ -8,7 +8,11 @@ In order to access the application follow this link:
 
 https://the-wild-oasis-as90.netlify.app/login
 
-And use the credentials below:
+OR
+
+https://the-wild-oasis-adrian-sandus-projects.vercel.app/login
+
+And use the credentials below to login:
 
 Email address : test@test.com
 
