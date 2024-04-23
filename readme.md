@@ -4,7 +4,11 @@
 
 Built using React and it's libraries, supabase for the backend and Styled Components.
 
-In order to access the application and login please use these credentials:
+In order to access the application follow this link:
+
+https://the-wild-oasis-as90.netlify.app/login
+
+And use the credentials below:
 
 Email address : test@test.com
 
