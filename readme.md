@@ -1,6 +1,6 @@
 # The Wild Oasis
 
-## Main project in Jonas Schmedtmann's Ultimate React Course on Udemy.
+## Main project in The Ultimate React Course on Udemy.
 
 Built using React and it's libraries, supabase for the backend and Styled Components.
 
@@ -13,3 +13,5 @@ And use the credentials below:
 Email address : test@test.com
 
 Password : password11
+
+
