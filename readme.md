@@ -10,7 +10,7 @@ https://the-wild-oasis-as90.netlify.app/login
 
 OR
 
-https://the-wild-oasis-three-flax.vercel.app/login
+https://the-wild-oasis-three-flax.vercel.app
 
 And use the credentials below to login:
 
