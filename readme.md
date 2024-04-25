@@ -3,6 +3,9 @@
 ## Main project in The Ultimate React Course on Udemy.
 
 The user is able to:
+ - Switch between dark mode and light mode
+ - Login, logout
+ - Update user information and avatar
  - Navigate the dashboard and view sales summary, occupancy rate, checkins today, bookings. These can be filtered by the last 7, 30 or 90 days and the charts update accordingly.
  - Access bookings, filter&sort, check in, check out, delete and inspect booking details.
  - Access the booking details page where the total price is displayed including the booking length, cabin number, breakfast included or not.
