@@ -1,7 +1,5 @@
 # The Wild Oasis
 
-## Main project in The Ultimate React Course on Udemy.
-
 The user is able to:
  - Switch between dark mode and light mode
  - Login, logout
